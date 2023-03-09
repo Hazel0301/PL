@@ -7,11 +7,11 @@
 
 ***
 ## 課程筆記區 ##
+### [練習一0302](https://github.com/Hazel0301/PL/blob/main/task_1.ipynb)
 
 <br />
 
 ## 作業連結區 ##
-### [練習一0302](https://github.com/Hazel0301/PL/blob/main/task_1.ipynb)
 
 <br />
 
