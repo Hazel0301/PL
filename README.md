@@ -11,7 +11,7 @@
 <br />
 
 ## 作業連結區 ##
-### 作業一 [task_1.ipynb](https://github.com/Hazel0301/PL/blob/main/task_1.ipynb)
+### [練習一0302](https://github.com/Hazel0301/PL/blob/main/task_1.ipynb)
 
 <br />
 
