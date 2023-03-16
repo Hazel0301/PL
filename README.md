@@ -12,7 +12,7 @@
 <br />
 
 ## 作業連結區
-### [作業一0309](https://github.com/Hazel0301/PL/blob/main/homework_1.ipynb)
+### [作業一0309-0316](https://github.com/Hazel0301/PL/blob/main/homework_1.ipynb)
 ### [作業二]
 ### [作業三]
 ### [作業四]
