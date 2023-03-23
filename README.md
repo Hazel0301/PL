@@ -26,3 +26,5 @@
 ## 其他
 ### [修課名單repo](https://docs.google.com/spreadsheets/d/e/2PACX-1vRBeY4-E_d9eBNKEcFV0eiGAFsMOk-ZYCmTLGmQ5_yWYkJcxXXBQI8rOkaqPyIktU4SgS7Rg0IQdZJ4/pubhtml#)
 ### [老師repo](https://github.com/pecu/PL)
+
+### [22修課repo]https://docs.google.com/spreadsheets/d/e/2PACX-1vRUVpx6AeccKwedvZjINM5-mSLpmS0M69wrCIbDimIdwpN30xQpqcn0k5kh0oUQET05sEsMpFt6fsCA/pubhtml
