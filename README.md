@@ -8,8 +8,7 @@
 ***
 
 ## 作業連結
-### [Homework 1 | 0309 - 0316](https://github.com/Hazel0301/PL/blob/main/hw_1/homework_1.ipynb)
-### [Homework 2 | 0323 - 0330](https://github.com/Hazel0301/PL/blob/main/hw_2/hw_2.ipynb)
+### [Homework 1 | 0309 - 0316 <br /> Homework 2 | 0323 - 0330](https://github.com/Hazel0301/PL/blob/main/hw_1%262/hw_1%262.ipynb)
 
 <br />
 
@@ -44,7 +43,8 @@
 <br />
 
 ## 課程筆記
-### [Practice 1 | 0302](https://github.com/Hazel0301/PL/blob/main/prac_1/task_1.ipynb)
+### [Practice Pandas | 0302](https://github.com/Hazel0301/PL/blob/main/prac_pandas/task_1.ipynb)
+### [Practice Json | 0323](https://github.com/Hazel0301/PL/blob/main/prac_json/hw_3.ipynb)
 
 <br />
 
