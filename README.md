@@ -39,6 +39,7 @@
 [Expression](https://regexr.com/)
 
 ### [Week 7 | Web Crawler](https://docs.google.com/presentation/d/e/2PACX-1vRPdEWRzhyXYjEmKNMxUtr8PFgE16G9mcG_Gomva1BMvz7h40QtkTRSz8AMqILBrwEfa8aV6WFDoRbP/pub?start=false&loop=false&delayms=3000&slide=id.g208c735537b_0_0)
+[Application Example](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C4_Python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2/python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2_code.ipynb)
 
 <br />
 
