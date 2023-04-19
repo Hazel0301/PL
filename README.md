@@ -41,6 +41,10 @@
 ### [Week 7 | Web Crawler](https://docs.google.com/presentation/d/e/2PACX-1vRPdEWRzhyXYjEmKNMxUtr8PFgE16G9mcG_Gomva1BMvz7h40QtkTRSz8AMqILBrwEfa8aV6WFDoRbP/pub?start=false&loop=false&delayms=3000&slide=id.g208c735537b_0_0)
 [Application Example](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C4_Python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2/python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2_code.ipynb)
 
+### [Week 8 | Data Visualization](https://docs.google.com/presentation/d/e/2PACX-1vSHmEOhUKyYXWVWFPbaOAgw4Vt63O4llaiuQEh0AEo77Es5-XRSpWPM89i-vub1HsIc-o0RxL4Dzqr_/pub?start=false&loop=false&delayms=3000&slide=id.g208c735537b_0_0)
+[Data Visualization](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96)
+
+
 <br />
 
 ## 課程筆記
