@@ -13,6 +13,7 @@
 <br />
 
 ## 專題連結
+### [Slide](https://docs.google.com/presentation/d/1E-EkvxI4I3n1DBF54zYlD17Pt7pm5RlzCwRbEcphRbo/edit?usp=sharing)
 
 <br />
 
