@@ -11,7 +11,7 @@
 ### [Homework 2 | 0323 - 0330 | Part 2](https://github.com/Hazel0301/PL/blob/main/hw_1%262/hw_1%262.ipynb)
 ### [Homework 3 | 0406 - 0413](https://github.com/Hazel0301/PL/blob/main/hw_3/hw_3.ipynb)
 ### [Homework 4 | 0420 - 0427 | Code](https://github.com/Hazel0301/PL/blob/main/hw_4/hw_4.ipynb)
-### [Homework 4 | 0420 - 0427 | Medium](https://github.com/Hazel0301/PL/blob/main/hw_4/hw_4.ipynb)
+### [Homework 4 | 0420 - 0427 | Medium](https://medium.com/@40871211h/36ba054d4ad1)
 
 <br />
 
