@@ -50,6 +50,8 @@
 
 ### [Week 9 | Data Visualization](https://docs.google.com/presentation/d/e/2PACX-1vQ_OZSE5BKy2Tj1zuHmidkbHuinozj4Br-_4kYBDCHE4ZgyXhr9Lm6sVVJVbtbTeAUkDL6S4hKDbUN_/pub?start=false&loop=false&delayms=3000&slide=id.g208c735537b_0_0)
 
+### [Week 11| Figma](https://docs.google.com/presentation/d/e/2PACX-1vTCnks22B-e1ckfKcW2p-6JfXT5T4ZybANaadlFhZeUbkrd0TPKmWo1gclFSUFEvsQ90Yrybr-7ua1A/pub?start=false&loop=false&delayms=3000&slide=id.g21867e82545_0_0)
+
 <br />
 
 ## 課程筆記
