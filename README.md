@@ -12,6 +12,8 @@
 ### [Homework 3 | 0406 - 0413](https://github.com/Hazel0301/PL/blob/main/hw_3/hw_3.ipynb)
 ### [Homework 4 | 0420 - 0427 | Code](https://github.com/Hazel0301/PL/blob/main/hw_4/hw_4.ipynb)
 ### [Homework 4 | 0420 - 0427 | Medium](https://medium.com/@40871211h/36ba054d4ad1)
+### [Homework 5 | 0504 - 0511 | Code]()
+### [Homework 4 | 0504 - 0511 | Medium]()
 
 <br />
 
@@ -49,6 +51,8 @@
 [Data Visualization](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96)
 
 ### [Week 9 | Data Visualization](https://docs.google.com/presentation/d/e/2PACX-1vQ_OZSE5BKy2Tj1zuHmidkbHuinozj4Br-_4kYBDCHE4ZgyXhr9Lm6sVVJVbtbTeAUkDL6S4hKDbUN_/pub?start=false&loop=false&delayms=3000&slide=id.g208c735537b_0_0)
+
+### [Week 11| Figma](https://docs.google.com/presentation/d/e/2PACX-1vTCnks22B-e1ckfKcW2p-6JfXT5T4ZybANaadlFhZeUbkrd0TPKmWo1gclFSUFEvsQ90Yrybr-7ua1A/pub?start=false&loop=false&delayms=3000&slide=id.g21867e82545_0_0)
 
 <br />
 
