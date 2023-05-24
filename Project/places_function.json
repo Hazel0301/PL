@@ -1,0 +1,2820 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0329387,
+                "lng": 121.5303821
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0343023302915,
+                    "lng": 121.5317660802915
+                },
+                "southwest": {
+                    "lat": 25.0316043697085,
+                    "lng": 121.5290681197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Focus kitchen肯恩廚房",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 721,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113089202169041948147\">Focus kitchen肯恩廚房</a>"
+                ],
+                "photo_reference": "AZose0mRcsd4OWbCc44TJALH5Rd2DK8YJh66pW9CkvpHzTuYzzduUm3eM1rCA0xtmjcEwrw9X98fnKRD_YrHN0u7eZ2uFKT22A0kbNtfp96SZHzq-9WcP_5O8dEAph1yo1a_fYVVdUEehY0Ic7rQUfxlTFjB1hbjsQrbkr8Vu2PxvJQFSv56",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJ8eWRPYKpQjQRuXQ3tGY9wKo",
+        "plus_code": {
+            "compound_code": "2GMJ+55 台灣台北市大安區",
+            "global_code": "7QQ32GMJ+55"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ8eWRPYKpQjQRuXQ3tGY9wKo",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2339,
+        "vicinity": "大安區信義路二段198巷6號"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0238934,
+                "lng": 121.5344482
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0252377802915,
+                    "lng": 121.5358479802915
+                },
+                "southwest": {
+                    "lat": 25.0225398197085,
+                    "lng": 121.5331500197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "莫宰羊-大安台大店",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1108,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105974627668361899999\">莫宰羊-大安台大店</a>"
+                ],
+                "photo_reference": "AZose0n5DY_XGWZiBa7XtgkCVs8o97VwqosMwzvIetC4th6kiAwV99wVcwtsiYNGc4LwgiE_IGu_LVqLPawHtM6dNswfijsFKPIBpJAk6nZ_3NpFIoyy1eUrVXiYCb32KudfhLFAieZugY9yQ7tlIxXicpZ_A49PVrEvDfY7WcLUAxo-33Bh",
+                "width": 1478
+            }
+        ],
+        "place_id": "ChIJ3xl5zIepQjQRGNQknIunDIs",
+        "plus_code": {
+            "compound_code": "2GFM+HQ 台灣台北市大安區",
+            "global_code": "7QQ32GFM+HQ"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ3xl5zIepQjQRGNQknIunDIs",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2719,
+        "vicinity": "大安區新生南路三段28號"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0217776,
+                "lng": 121.5280121
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.02317273029151,
+                    "lng": 121.5293922302915
+                },
+                "southwest": {
+                    "lat": 25.0204747697085,
+                    "lng": 121.5266942697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "KGB Kiwi Gourmet Burgers",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 816,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118253750421803979454\">KGB Kiwi Gourmet Burgers</a>"
+                ],
+                "photo_reference": "AZose0mLgXhpAdUSgiLG9YnM2NY7Plndykinj8Vlo06Rfcx-SeqNARoMX8ym2AgdRoSvyjmvvid-MIOvTg5MU1Xx5n5Tf3B0lhJFo7nanwQU8RrUyx2panpRKweQGrjCQTcFXj-DSGPXx91lHMS3FwpFutKfJgMruOBZSUTJkT9FIVck1x9E",
+                "width": 1632
+            }
+        ],
+        "place_id": "ChIJNTAArY-pQjQR0G-DgiWp9dc",
+        "plus_code": {
+            "compound_code": "2GCH+P6 台灣台北市大安區",
+            "global_code": "7QQ32GCH+P6"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJNTAArY-pQjQR0G-DgiWp9dc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1413,
+        "vicinity": "大安區師大路114巷5號"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.024613,
+                "lng": 121.534308
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0259145802915,
+                    "lng": 121.5356543802915
+                },
+                "southwest": {
+                    "lat": 25.0232166197085,
+                    "lng": 121.5329564197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "紫藤廬",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112722448768181809243\">Angela Chen</a>"
+                ],
+                "photo_reference": "AZose0nPm8FHECGzoDY46ZpJQU4Y1xmucq8yE0VOyK2UER7S1eDbBkbV03jEiY9QYdGgpRcSeJxea-ZhzzeT9LD7cbz4wkPLhfZO_6jq9A63trG6O-caASIuxiMy3mUE78S4R9SPIOXa55clPJscppzUiGEDxUBd5h9f2C_qmm_ldWD0Y9n0",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJTW8Gs4epQjQRRA0-FAu_O0k",
+        "plus_code": {
+            "compound_code": "2GFM+RP 台灣台北市大安區",
+            "global_code": "7QQ32GFM+RP"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJTW8Gs4epQjQRRA0-FAu_O0k",
+        "scope": "GOOGLE",
+        "types": [
+            "tourist_attraction",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1657,
+        "vicinity": "大安區新生南路三段16巷1號"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0320601,
+                "lng": 121.529195
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0333894802915,
+                    "lng": 121.5305405302915
+                },
+                "southwest": {
+                    "lat": 25.0306915197085,
+                    "lng": 121.5278425697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "樂麵屋 永康店",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111299735760035142103\">Ruby Chen</a>"
+                ],
+                "photo_reference": "AZose0nxeW9COnJ7eJe4K6UkOz5udl50HjQ1NeIiiTzJ8WzSkuDVDBpEb5HZAbwnjYFettdc39bibo2Vda89DT-HLwpcRW50a0nwftFom6iD62DyR5vusB4eSiSYbhYKLvMkH-_VEZ7WIiaYenTYj1DduWHLLvgtyFYEBSKQiQ9jp0bFnhHD",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJibxETYKpQjQRqvJwtszA4AA",
+        "plus_code": {
+            "compound_code": "2GJH+RM 台灣台北市大安區",
+            "global_code": "7QQ32GJH+RM"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJibxETYKpQjQRqvJwtszA4AA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2096,
+        "vicinity": "大安區永康街10巷7號"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0232252,
+                "lng": 121.5268564
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0245776302915,
+                    "lng": 121.5281772802915
+                },
+                "southwest": {
+                    "lat": 25.0218796697085,
+                    "lng": 121.5254793197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "瑪莉珍披薩 師大店",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1124,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116853803191358348482\">Maryjane Pizza ShiDa 瑪莉珍披薩 師大店</a>"
+                ],
+                "photo_reference": "AZose0kcw5fQEyJ6PdawM5BOyDzKfB3nMZIzBnDNlr20fKf-tcD1q8HYpDk09MO1aEOWwp6Ti_Jca6fSKtb-smBz4Ban7vA0NXs1DedWka47_aXXjluliyM4S9gmR-91fMy_eJsksUTiSQYWKI8vFojwd_8IO6-3gqFeujPF62f0TehaBa1w",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJHTQHYI-pQjQRqU4LFb5A6pU",
+        "plus_code": {
+            "compound_code": "2GFG+7P 台灣台北市大安區",
+            "global_code": "7QQ32GFG+7P"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJHTQHYI-pQjQRqU4LFb5A6pU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 799,
+        "vicinity": "大安區浦城街33-9號"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.030981,
+                "lng": 121.529095
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0322928802915,
+                    "lng": 121.5304495802915
+                },
+                "southwest": {
+                    "lat": 25.0295949197085,
+                    "lng": 121.5277516197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "游壽司麗水店",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114632031115996514090\">Ling</a>"
+                ],
+                "photo_reference": "AZose0npPysNIgvlLBdRrZHxbHfT3QaUi0svjji_8EZw5FmZPgSAJqZFaPew0T5SOZMsXKGmuIsu3dLawCBKyzfiXBD3_Rqx8uN_7vRJzYx624jt_s_8qwDS6rWUgTIDsgnGnonzdGkgxAusYk2O4_Upi0JYHB3Tj8BFy5HyWAbQqQ3SI058",
+                "width": 4080
+            }
+        ],
+        "place_id": "ChIJy6vPnYOpQjQROLEuho5E-Fk",
+        "plus_code": {
+            "compound_code": "2GJH+9J 台灣台北市大安區",
+            "global_code": "7QQ32GJH+9J"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJy6vPnYOpQjQROLEuho5E-Fk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1508,
+        "vicinity": "大安區麗水街7巷7號"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0230301,
+                "lng": 121.5286396
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0243243302915,
+                    "lng": 121.5299832302915
+                },
+                "southwest": {
+                    "lat": 25.0216263697085,
+                    "lng": 121.5272852697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Macho Tacos 瑪丘墨式餅舖 (師大 Shida)",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109095761152196233529\">Macho Tacos 瑪丘墨式餅舖 (師大 Shida)</a>"
+                ],
+                "photo_reference": "AZose0kf3kYIihFU_GwkteCfZoRJkP4-8wF3dTHDFrvTD1Kg0nzjmkzLkpPVNC0g-XdTW7dZlr99B7rdGN3Sz5f-Fpb68ba7efxRXzyf8QAG0VGdxu6rYxFtJM1vuNqJ0NfRG15oQyXpg0e0TpP0ETvLVRYzs337oNejASBnFB12XA_lB72i",
+                "width": 2268
+            }
+        ],
+        "place_id": "ChIJ_68w9Y-pQjQRa2AIDqFvRmc",
+        "plus_code": {
+            "compound_code": "2GFH+6F 台灣台北市大安區",
+            "global_code": "7QQ32GFH+6F"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJ_68w9Y-pQjQRa2AIDqFvRmc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1562,
+        "vicinity": "大安區師大路93巷1號"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.029216,
+                "lng": 121.521823
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0305545802915,
+                    "lng": 121.5232324302915
+                },
+                "southwest": {
+                    "lat": 25.0278566197085,
+                    "lng": 121.5205344697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "水牛城美式炭烤牛排（古亭）",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104177990533750508763\">水牛城美式炭烤牛排（古亭）</a>"
+                ],
+                "photo_reference": "AZose0kXtKpH7QCF5NKyAHgw8C9bq8izM694eM7Dg6T6sO7BTF_mqAzxV8rqpIILvBXYl16UCmQrQgfQiUF-mFfw8qoY9bROWfYg2BdW8Ds_gwHIMonuHFEzHKtcaqSuWbANf2WOGjY40fiM3TvBa8rr7GYC1Xzw86xc2eUU8hM2tWLXlk-a",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJkT9RupupQjQROzXoveyqnmU",
+        "plus_code": {
+            "compound_code": "2GHC+MP 台灣台北市中正區",
+            "global_code": "7QQ32GHC+MP"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJkT9RupupQjQROzXoveyqnmU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3305,
+        "vicinity": "中正區杭州南路二段94號"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0200278,
+                "lng": 121.5334694
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0213763802915,
+                    "lng": 121.5348183302915
+                },
+                "southwest": {
+                    "lat": 25.0186784197085,
+                    "lng": 121.5321203697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "霞飛驛歐法西餐",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105475846313273990112\">Jason Wu</a>"
+                ],
+                "photo_reference": "AZose0kpNmkgs1WyvH9xCEodIgkIbNIfmX-uesZE9bE8rxL_yCxU2CzKcawubVm1YcJbPCgKxoD_nAFMNSWOkK9ydAQN_eRWUMobPNcF4iZlbOi45SbmJbjflPAdMpBloY9eai3wNsOvE0M-Q3J48ok74XowYohlSCq0LdaZk2oyrv4Etg7F",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJNfAt5MSrQjQR-Z8NpMSCkjk",
+        "plus_code": {
+            "compound_code": "2GCM+29 台灣台北市大安區",
+            "global_code": "7QQ32GCM+29"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJNfAt5MSrQjQR-Z8NpMSCkjk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1229,
+        "vicinity": "大安區新生南路三段60巷8號"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0279286,
+                "lng": 121.5326474
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0293609302915,
+                    "lng": 121.5339956302915
+                },
+                "southwest": {
+                    "lat": 25.0266629697085,
+                    "lng": 121.5312976697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "青田七六",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3204,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110037441500647541557\">青田七六</a>"
+                ],
+                "photo_reference": "AZose0n5pGfUt-HVbNWa2fg_SXvTxcotq66jI5oqDSp8KVcHGtenePvtGY5SYyazAHxcR_S0yChsRfyqoszkusarGNFBFq9BS0qaLJ-w3ERDDzWTe-4bXpRMyKW65lTL6Qrlr7x_eotGl2qCp8xbVyxinH9GxtD80kSSYU_0PUe_b_L4TWj4",
+                "width": 4798
+            }
+        ],
+        "place_id": "ChIJU6Wht4apQjQRYlBcxJ1liEk",
+        "plus_code": {
+            "compound_code": "2GHM+53 台灣台北市大安區",
+            "global_code": "7QQ32GHM+53"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJU6Wht4apQjQRYlBcxJ1liEk",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3533,
+        "vicinity": "大安區青田街7巷6號"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0305315,
+                "lng": 121.5285372
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0319150302915,
+                    "lng": 121.5298943302915
+                },
+                "southwest": {
+                    "lat": 25.02921706970849,
+                    "lng": 121.5271963697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "六品小館-總店",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114588546103351375655\">Chieh Lung Chang</a>"
+                ],
+                "photo_reference": "AZose0nONGkvnA7DNdBmQAy-uofTLfLgSwg-sSlBYyZGaAZZhzABJa1IjvqFDOIdvCgz1FLxkyFjzDeB1wTI5SMjiD2u2dtHEPiUDjjzW-xlOvgfFHBCGpFJ1rO3dS4xPL0S5rkrZuxSYb4L_PDp-k5i_ylptBGHCwYj57sKIMHDUV0jbxeV",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJh8vlnYOpQjQRUR6sHTr34x4",
+        "plus_code": {
+            "compound_code": "2GJH+6C Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GJH+6C"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJh8vlnYOpQjQRUR6sHTr34x4",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1227,
+        "vicinity": "No. 8號, Alley 3, Lane 199, Jinhua Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.030021,
+                "lng": 121.5282401
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.03132538029151,
+                    "lng": 121.5295809302915
+                },
+                "southwest": {
+                    "lat": 25.0286274197085,
+                    "lng": 121.5268829697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "韓記老虎麵食館",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111120787384452051454\">俊平</a>"
+                ],
+                "photo_reference": "AZose0m_Gy6YWtycrK35EUTx4TLxnGgsfNYPFFaiKjrmigzY7jMYeLgZ5beyF9PPVWl_2eZAEB6bou0lvsCFzhQ7C0NeKQSBHi39kHr4F1Ede2zzYlV6uzV6MYL6_vJIgAd4ky-lSHzQutP2SK9JGk0N6VV6eA3m0NIKmjX0NYcOdXJlmt-Y",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJc0AYeYOpQjQRwIGK8ua6w7M",
+        "plus_code": {
+            "compound_code": "2GJH+27 Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GJH+27"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJc0AYeYOpQjQRwIGK8ua6w7M",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2377,
+        "vicinity": "No. 203號, Jinhua Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0239177,
+                "lng": 121.5243818
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0253238302915,
+                    "lng": 121.5257704302915
+                },
+                "southwest": {
+                    "lat": 25.0226258697085,
+                    "lng": 121.5230724697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Giguo Taipei Nanchang Branch",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2992,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109310092766508185252\">WENNON LEE</a>"
+                ],
+                "photo_reference": "AZose0lWX-R0S1zv1PIG9wDxJdjgZGryo05DKUWrzMx7aPBKWPH1V6CvIoTtYYojqy1FXn_uCM4OpXrGXkVHvDFMhcsfITZEP94W9hh1MVlGFohJyMrtN0LiK2sq9oTv5AjxwhGvp-BJsnWZ0RzVyXQC454GkxdSbZ2G6StkAMWCB-xiLY1Q",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJn1fdFZCpQjQRnvgTI_LTCkw",
+        "plus_code": {
+            "compound_code": "2GFF+HQ Zhongzheng District, Taipei City, Taiwan",
+            "global_code": "7QQ32GFF+HQ"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJn1fdFZCpQjQRnvgTI_LTCkw",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 4962,
+        "vicinity": "2F, No. 216, Section 2, Nanchang Road, Zhongzheng District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0201304,
+                "lng": 121.5335261
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.02160943029149,
+                    "lng": 121.5350941302915
+                },
+                "southwest": {
+                    "lat": 25.01891146970849,
+                    "lng": 121.5323961697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "SoHo Pasta",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100089910441564402059\">Bruce Liu</a>"
+                ],
+                "photo_reference": "AZose0l1ilnUy5JNO5XZ-Pb_oKN8AQBa1Kod83knneijpaLvjou5tckbITF79UKDDByOm2ne_py5LNCRCHYCH984q3dOfmoFJBdGJi44WS53UiIdGRENDWOiLINGav9s-jNwIdblxc12T6pTWVOFKp3ZZ3cIvqrjmdloouHCLYbqDxUnwioz",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJtde7A4mpQjQR3cag3SFcF7c",
+        "plus_code": {
+            "compound_code": "2GCM+3C Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GCM+3C"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJtde7A4mpQjQR3cag3SFcF7c",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 787,
+        "vicinity": "No. 3號, Lane 60, Section 3, Xinsheng South Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0205722,
+                "lng": 121.5336417
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.02184518029151,
+                    "lng": 121.5349856802915
+                },
+                "southwest": {
+                    "lat": 25.0191472197085,
+                    "lng": 121.5322877197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Witch House",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114348011451067434506\">Debbie Hsiao</a>"
+                ],
+                "photo_reference": "AZose0mhLkxnr_mx2TugLVbifckIxMJLLLkyxmbXY13rv7f0OqDCLpPNp_oidCg-_aG4kgoAFrc9qpYoxF55kBC5fvj00sjA9toqt3hx7fVtSprcJMrLKXDltb_9IJbqSxuOUCdTDNTbcjlmmsLh4MDFiMNU-YbnTNUoZ-2ZbYgNvODbYQZ0",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJXWgb_4ipQjQR5zaBg-r3ryU",
+        "plus_code": {
+            "compound_code": "2GCM+6F Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GCM+6F"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJXWgb_4ipQjQR5zaBg-r3ryU",
+        "scope": "GOOGLE",
+        "types": [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1426,
+        "vicinity": "No. 7號, Lane 56, Section 3, Xinsheng South Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0236368,
+                "lng": 121.526933
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0250486302915,
+                    "lng": 121.5282890302915
+                },
+                "southwest": {
+                    "lat": 25.02235066970849,
+                    "lng": 121.5255910697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "雲禾特調小火鍋",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2992,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109310092766508185252\">WENNON LEE</a>"
+                ],
+                "photo_reference": "AZose0l9jecsZjF35ZsaEo1ZcPA2Al69QPDIn1Oi5lss7yo6zdEB0E1BvEAt_S8SpzYLnIDJ1ea3tQNuctbuInHgQJ3YWSMAfFFMzcCZoVUF06l-3_bK-sXUTvN8OXEQDFnxF6S-kCsn0TIbNKS8VgQlHK5boGSiMHcbAiUdU4RZuU1YiG72",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJ96_lko-pQjQR2cHcKoqcW6I",
+        "plus_code": {
+            "compound_code": "2GFG+FQ Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GFG+FQ"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJ96_lko-pQjQR2cHcKoqcW6I",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 893,
+        "vicinity": "No. 2號, Yunhe Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0261707,
+                "lng": 121.5234396
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0274754302915,
+                    "lng": 121.5247114802915
+                },
+                "southwest": {
+                    "lat": 25.0247774697085,
+                    "lng": 121.5220135197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "TASTY Taipei Roosevelt Branch",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111423937157255655214\">TASTY西堤牛排 台北羅斯福店</a>"
+                ],
+                "photo_reference": "AZose0lOyes31fPZFEjEASFdghRlBan-n0m79YR_M1WNa-2lHvVulYzsCofVdg0hDdDqh7Dl47IcyPVa0m1g6XcxJl-XniYv6rhtYxri1-GcmXISyyTcfxP5OijcEyXCM6tBcij1nBsi1nhOk6fsuP5Llo8--ELgKRTWYpW6ODt6vbwgSbYO",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJwdwRD9qrQjQR8v-5KSTMrpQ",
+        "plus_code": {
+            "compound_code": "2GGF+F9 Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GGF+F9"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJwdwRD9qrQjQR8v-5KSTMrpQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 5998,
+        "vicinity": "2F, No. 79號, Section 2, Roosevelt Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0243393,
+                "lng": 121.5278786
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0257344802915,
+                    "lng": 121.5292694802915
+                },
+                "southwest": {
+                    "lat": 25.0230365197085,
+                    "lng": 121.5265715197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Out of India Shida Branch",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101878053437409907929\">S T</a>"
+                ],
+                "photo_reference": "AZose0luCwlSBE_jhyCMTeijjM_wE8zZbwgsQLRWLWrKrK_-EtMocXn19TS-bE2njLan61m5MGaegYwNGRPK2aKic5G4T5lXUcBqXOol-edvT9i_FHtPTmF3kuHttIULVGjeZe3qmOm_cmexV9E6gKayYi9b25rw1MTv92RvTBoPvYMQWgA",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJmxpmfIWpQjQRuO6qJKcBk74",
+        "plus_code": {
+            "compound_code": "2GFH+P5 Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GFH+P5"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJmxpmfIWpQjQRuO6qJKcBk74",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 4172,
+        "vicinity": "No. 26, Lane 13, Pucheng Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.02636309999999,
+                "lng": 121.5211358
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0277044302915,
+                    "lng": 121.5224637802915
+                },
+                "southwest": {
+                    "lat": 25.0250064697085,
+                    "lng": 121.5197658197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "晉江茶堂",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107970210275221737528\">Ymow Wu</a>"
+                ],
+                "photo_reference": "AZose0kI-b89cfygYF4Zm6RizM_aEtYmt33EtAdpBC5K-1GwKlvQlMoe8etpiYpgOh7MbbnqHR-MAovi3Orx6zHGwq0zIYpzhr2B_vnEg5VBeN88XoPOTYqeGzh29LMUTR-aJZ01niuTc2mhSbC6bTzlNA2UYAMnqug_2PB6wlgdLnwJ0flV",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJcTzuDJqpQjQRNXZGU1vYgnA",
+        "plus_code": {
+            "compound_code": "2GGC+GF Zhongzheng District, Taipei City, Taiwan",
+            "global_code": "7QQ32GGC+GF"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJcTzuDJqpQjQRNXZGU1vYgnA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1433,
+        "vicinity": "No. 1, Jinjiang Street, Zhongzheng District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.02786369999999,
+                "lng": 121.5248983
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0293303802915,
+                    "lng": 121.5263756302915
+                },
+                "southwest": {
+                    "lat": 25.02663241970849,
+                    "lng": 121.5236776697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Taidian Li Jin Restaurant",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 553,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107622108845007023991\">佳修</a>"
+                ],
+                "photo_reference": "AZose0kabsqcD3HIZT9anGkgMT7xFQ7vcjBAER-Z6ieUDgibgw91VrI1hzRpTaD29-3V55P6X6c3gAorh-4DA1lCsLGVdweML-sh1JxSzaNfjeQdofaBPtaew1sQv-NJsP3u8HdlnEUvcSQUwFVxtVtmKptGgA02X8xElSafqRaRtqaY_sw3",
+                "width": 828
+            }
+        ],
+        "place_id": "ChIJZ9j9LpupQjQRo_v2j2RcSlQ",
+        "plus_code": {
+            "compound_code": "2GHF+4X Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GHF+4X"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJZ9j9LpupQjQRo_v2j2RcSlQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3136,
+        "vicinity": "Lane 75, Section 1, Heping East Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0273667,
+                "lng": 121.5217564
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0287479802915,
+                    "lng": 121.5231013802915
+                },
+                "southwest": {
+                    "lat": 25.0260500197085,
+                    "lng": 121.5204034197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "帝拉摩義式餐廳 telamo italian bistro",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2346,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106012861395724067547\">J ane</a>"
+                ],
+                "photo_reference": "AZose0ltQqH8sSGvfwx5eBpfVdMvH3cIKGvl7rfzZY8qgpn46rM9SY_WRT-EjHskWehXspvo2WXTRu08rpFIab9T6oACLUe_CCFwDpyowC_juIE5ffzwXziV7J_DCwZNXfOne4fzeoTMWwzLFVnv3Uh_LHX3GV90l2QGtWrpff9XO7KsI03y",
+                "width": 2160
+            }
+        ],
+        "place_id": "ChIJWzVrzpupQjQRofikAqvFsrc",
+        "plus_code": {
+            "compound_code": "2GGC+WP Zhongzheng District, Taipei City, Taiwan",
+            "global_code": "7QQ32GGC+WP"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJWzVrzpupQjQRofikAqvFsrc",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1009,
+        "vicinity": "No. 1號, Lane 66, Section 2, Roosevelt Road, Zhongzheng District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0197686,
+                "lng": 121.5299177
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.02117083029151,
+                    "lng": 121.5312114302915
+                },
+                "southwest": {
+                    "lat": 25.0184728697085,
+                    "lng": 121.5285134697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Oma's German Delicacies",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1108,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106966940561474253333\">歐嬤德式美食 哥德店</a>"
+                ],
+                "photo_reference": "AZose0nRsvrYj4o2aRsQlkj5p9plvvnIcK8QaQCrkGmW-jFY_mM0itpLbDHeld0gZI5Q23gTWovmR7pP92a_JxbvnKdznJhdi2CzD6mmsj4DGmTiIoCUD8ABa9rTPYMZQ0lWIpguWRYpJ263nWd3kuXQAvxGxDrzWZGvhzmNqJb_TAQms44m",
+                "width": 1478
+            }
+        ],
+        "place_id": "ChIJYbE3TImpQjQRwm5Ok39Ck9M",
+        "plus_code": {
+            "compound_code": "2G9H+WX Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32G9H+WX"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJYbE3TImpQjQRwm5Ok39Ck9M",
+        "scope": "GOOGLE",
+        "types": [
+            "bakery",
+            "restaurant",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1660,
+        "vicinity": "No. 30號, Section 1, Xinhai Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0324667,
+                "lng": 121.5291407
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0338156802915,
+                    "lng": 121.5304896802915
+                },
+                "southwest": {
+                    "lat": 25.0311177197085,
+                    "lng": 121.5277917197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "豐盛食堂",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102858033790446409074\">Brook Li</a>"
+                ],
+                "photo_reference": "AZose0lMSespEu5wTjiSzdoHCWiba9h5OC3wCG1cM7TTipOmaW14_EVC3VVQMVbRD288NltyagBtXshZHtizqX7b7aJpZyMeXI32SAcD6fkQjRVQZP8Qpd0OUlrKTzdTWo2LbaCgmstZf25SaC54mQYjmZ8nvY9NkDb39g0EcRVixG4J5rgR",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJ97_CUYKpQjQRoiw8x6BqopA",
+        "plus_code": {
+            "compound_code": "2GJH+XM Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GJH+XM"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ97_CUYKpQjQRoiw8x6BqopA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1856,
+        "vicinity": "No. 1之3號, Lishui Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0335035,
+                "lng": 121.530118
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0349093802915,
+                    "lng": 121.5314755802915
+                },
+                "southwest": {
+                    "lat": 25.0322114197085,
+                    "lng": 121.5287776197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Din Tai Fung Xinyi Branch",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115212346095495076177\">wataru T</a>"
+                ],
+                "photo_reference": "AZose0lDk5ZBBaSKzg7iSKTYSoa_7AkEoElE6XKTEn2zGr30i1m1ev_VSTZWuZhjnzc8C12ID41F_rUde0C-sQyUjmRDQKenzTAre9opPAjbRk9gjW6vKqOUBMvnBr3V44VhsAuDWH9P6xhWZKbCjyL9A_p3GVtz-_dYjgKlgtZsyZCLjCpQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJbTKSE4KpQjQRXDZZI57v-pM",
+        "plus_code": {
+            "compound_code": "2GMJ+C2 Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GMJ+C2"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJbTKSE4KpQjQRXDZZI57v-pM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 11958,
+        "vicinity": "No. 194號, Section 2, Xinyi Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.022469,
+                "lng": 121.528811
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0238270802915,
+                    "lng": 121.5301607802915
+                },
+                "southwest": {
+                    "lat": 25.0211291197085,
+                    "lng": 121.5274628197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "佬披薩LAPIZZAitalian",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101678315725963708482\">Wong Ron</a>"
+                ],
+                "photo_reference": "AZose0mHA-oN7wzisIAkxwxNFpAqULgWSj7fgggOXjkZwJJ5d6WYCT1auUsPsHWYVTkI94nLtnktciwiRKQPaXRWC9q6HuPUb-ucPo3jdx1JkRDjz6b8tn_e7nkHXmhmchss-pb92ez1MBjsvhd0F1iemfIZpHOSzpSG9aCHm2_mdroLUa5m",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJl-sBDI-pQjQRuAvhyCfLSGU",
+        "plus_code": {
+            "compound_code": "2GCH+XG Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GCH+XG"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJl-sBDI-pQjQRuAvhyCfLSGU",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 768,
+        "vicinity": "No. 8號, Lane 105, Shida Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.02894059999999,
+                "lng": 121.5296174
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0302904802915,
+                    "lng": 121.5309823302915
+                },
+                "southwest": {
+                    "lat": 25.0275925197085,
+                    "lng": 121.5282843697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Hong Kong Xin Hua Restaurant",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115750522556999846515\">TSAICHEN YANG</a>"
+                ],
+                "photo_reference": "AZose0nMkzRKnGoX2KLfTi0sDw9jpYgaTNbINhdH3afOWAaMbtR7igEkcCLcBpKKuHQqahU2389T40nQYCxSPgCXIB-Bbm1IlJ8iDqSzWQC1WUZX48zYgXccxSPphC0CBAzbYPMzt1LaOxgTjPTANuJFZYLWCjwOP_g82uMYPGgEiOLdqv2b",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJI-fDY4OpQjQRCTU_iaWpbeA",
+        "plus_code": {
+            "compound_code": "2GHH+HR Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GHH+HR"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJI-fDY4OpQjQRCTU_iaWpbeA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3290,
+        "vicinity": "No. 48, Yongkang Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.026498,
+                "lng": 121.5325306
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.02777023029151,
+                    "lng": 121.5338715302915
+                },
+                "southwest": {
+                    "lat": 25.0250722697085,
+                    "lng": 121.5311735697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Spring vegetarian restaurant (Daan Branch)",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116979028738642702049\">蛋頭哥</a>"
+                ],
+                "photo_reference": "AZose0mWXLEuyqX3Vdg4u7bHyZObnK8JJQjVjT1Byf5ZDp7dJoovA2vN-O_FaYIG2lHe4uIOUciSyiJz9CaxsjPRsRX0uTn0hSBa74G0rLKnHbL8r0dr_TY6Q7H0GZeVLqhaKyAmAnsHrVQ5mDQMZq29ud13CSwBvl702FzXjcvbwqSoPzlU",
+                "width": 4096
+            }
+        ],
+        "place_id": "ChIJxb5PjoapQjQRQxCdflMrDQQ",
+        "plus_code": {
+            "compound_code": "2GGM+H2 Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GGM+H2"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJxb5PjoapQjQRQxCdflMrDQQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2133,
+        "vicinity": "3F, No. 177號, Section 1, Heping East Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.032044,
+                "lng": 121.5292868
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0333759802915,
+                    "lng": 121.5306327302915
+                },
+                "southwest": {
+                    "lat": 25.0306780197085,
+                    "lng": 121.5279347697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Rice Café 杓文字",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3064,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117347621100845170199\">Song-yang Tong</a>"
+                ],
+                "photo_reference": "AZose0lUkX4neY0chEA7lXsivfxYmu_6-qwj3x77nF3ed4hOBoH0cGYtmxsnMrhkaO-7vMnZWqldS54ZMyi1AHn4o1GZnbrO_VEyppfBuIh7WZV21Vt86LKnA584V2n09zKXC2i5l5DIT7da5pojLEr3ktCE8wuEk9vVtwEDxCquu9ZSvm-s",
+                "width": 4592
+            }
+        ],
+        "place_id": "ChIJibxETYKpQjQRnJOXvfnziVU",
+        "plus_code": {
+            "compound_code": "2GJH+RP Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GJH+RP"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJibxETYKpQjQRnJOXvfnziVU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 684,
+        "vicinity": "No. 7號, Lane 10, Yongkang Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.019468,
+                "lng": 121.529766
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0207790802915,
+                    "lng": 121.5310696802915
+                },
+                "southwest": {
+                    "lat": 25.01808111970849,
+                    "lng": 121.5283717197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "MOS BURGER Roosevelt Road Shop",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109409512595253494732\">邱淑月</a>"
+                ],
+                "photo_reference": "AZose0mDZpY7LlUW7A5Vc5xalDeM5z00tEoygRogREsrlDPFj2dYw0GUIM5MJ_oRtJyKfbInAUepKFBiPOB5C67uej5lB2FNrKDC0wl08dPBLMbvXagCx4twhTPf4RKtvLICFq33Iqit81ItaqOLo89M52oeeNI_RQA8pENxOulz8xcykfux",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJR4y1_YapQjQRBvTjPhu3iJs",
+        "plus_code": {
+            "compound_code": "2G9H+QW Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32G9H+QW"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJR4y1_YapQjQRBvTjPhu3iJs",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2064,
+        "vicinity": "No. 233, Section 3, Roosevelt Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0321083,
+                "lng": 121.5290084
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0334639302915,
+                    "lng": 121.5303186802915
+                },
+                "southwest": {
+                    "lat": 25.03076596970849,
+                    "lng": 121.5276207197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "ROSE HOUSE Yongkang Shop",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112067847840387156526\">古典玫瑰園－永康店</a>"
+                ],
+                "photo_reference": "AZose0ljXKeIIOFh8V2NmTkYrxVVphUXkFKi3IpkMMi9cpZXdZQiNaCJyLNcsy8qwofC6PQn02GwzqAjXX6_RmUnE-180KEuXe33hwoDCwGBzY7uAuXayGK06W4q-gZAWK5NMPJ6rZQi4MwvbPklj_ip4p7jT1J4IIq1N7JOoj7UoQ3T5oH_",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJCVYxn4-pQjQR35RnA9CfukI",
+        "plus_code": {
+            "compound_code": "2GJH+RJ Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GJH+RJ"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJCVYxn4-pQjQR35RnA9CfukI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 947,
+        "vicinity": "No. 3之1號, Lishui Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0282712,
+                "lng": 121.5222065
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0296126302915,
+                    "lng": 121.5235590802915
+                },
+                "southwest": {
+                    "lat": 25.0269146697085,
+                    "lng": 121.5208611197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "魚日式料理",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111204314645120534398\">Tommy</a>"
+                ],
+                "photo_reference": "AZose0nxrLgFryLSp9i0er4hi0LlNXFAeUH3zrSmvZycHHL5ttJCxNzQScpg1ok9vFHUUNd8_-Php1JvOlbimQr36iKO_aD_MOqEMlR2T6r7yYgRInDumdImQAuC6DkCMNDxtLfan06fRmT0uhmioCduj7U25sqMb20qXGJF_g0kuvCY3Y3T",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJt1azrJupQjQRDPGRLGX8ZoU",
+        "plus_code": {
+            "compound_code": "2GHC+8V Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GHC+8V"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJt1azrJupQjQRDPGRLGX8ZoU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1079,
+        "vicinity": "No. 10, Lane 15, Section 2, Luosifu Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0282614,
+                "lng": 121.5302455
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0296387302915,
+                    "lng": 121.5315944802915
+                },
+                "southwest": {
+                    "lat": 25.0269407697085,
+                    "lng": 121.5288965197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "A.B HOUSE",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1702,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103748703721359594655\">Joseph Yang</a>"
+                ],
+                "photo_reference": "AZose0lB0zjP_8Xpfy7ZrBrYusCNL-4U3FzSVUhRFpUa6epCFdaWCgHfs8yjhXv97fHrJHXSV51tcKmmqjA1I8mffry2hLvxIM92Ws4OZHvl3cFHphX91uEt1j8Kn-bswnGR9D94pOOEGsVcSHZqYdDzHDNOi-9hsULIM6CW6_dMwvDgpuee",
+                "width": 2449
+            }
+        ],
+        "place_id": "ChIJrRR9bYSpQjQRPhG2Al-8bhE",
+        "plus_code": {
+            "compound_code": "2GHJ+83 Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GHJ+83"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJrRR9bYSpQjQRPhG2Al-8bhE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 617,
+        "vicinity": "No. 188, Chaozhou Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0324667,
+                "lng": 121.5291407
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0338156802915,
+                    "lng": 121.5304896802915
+                },
+                "southwest": {
+                    "lat": 25.0311177197085,
+                    "lng": 121.5277917197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "豐盛食堂",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102858033790446409074\">Brook Li</a>"
+                ],
+                "photo_reference": "AZose0k2o8ElcKBHFhRW8L5EbBgBEqT0a7kMMRIaB8a9ogpqDg5n1fDrgx1_sYKpKMz87LWgMBW34jASPc5aacnTrWaYYTh3wJpz6CqyapQpSN7fGkj6kuxl0HjAEVULW6fWHoMU1-6ii-vGudu1nPX63bm4icpN5iNXn0iTCVjO9gfB--om",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJ97_CUYKpQjQRoiw8x6BqopA",
+        "plus_code": {
+            "compound_code": "2GJH+XM Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GJH+XM"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ97_CUYKpQjQRoiw8x6BqopA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1856,
+        "vicinity": "No. 1之3號, Lishui Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0335035,
+                "lng": 121.530118
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0349093802915,
+                    "lng": 121.5314755802915
+                },
+                "southwest": {
+                    "lat": 25.0322114197085,
+                    "lng": 121.5287776197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Din Tai Fung Xinyi Branch",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115212346095495076177\">wataru T</a>"
+                ],
+                "photo_reference": "AZose0lE3HeVtiED1dbOZxTfWc_X14_d4YqzFcjK71buIi2Is3fFj1sfYFAk_qeUnW-RqGmPcgBcPMy_dny1zr8O4XRj_RHtG5YFNB8vq0croOYcfJcBjTNznwLV39pmSI36X7FSTcPzVqM1oPntQDTx46MaLWmIsqHfTVIZEYfnILoNrSVf",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJbTKSE4KpQjQRXDZZI57v-pM",
+        "plus_code": {
+            "compound_code": "2GMJ+C2 Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GMJ+C2"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJbTKSE4KpQjQRXDZZI57v-pM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 11958,
+        "vicinity": "No. 194號, Section 2, Xinyi Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.022469,
+                "lng": 121.528811
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0238270802915,
+                    "lng": 121.5301607802915
+                },
+                "southwest": {
+                    "lat": 25.0211291197085,
+                    "lng": 121.5274628197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "佬披薩LAPIZZAitalian",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101678315725963708482\">Wong Ron</a>"
+                ],
+                "photo_reference": "AZose0m7fp460Fi3wFHL4tcwJw-R26H61VT08-BBV-4WUfAo3BciZe6ZLntJURFo5MnDUX6VZTilf0M7Zc-ksVyEmhZnsS6Pzn2BcDVBVFnen5ik5DbT_OylgRh81ZeG-oAz1qDwbrHb2dbOjfez47kH3seHQtbUAIGxZXJHTflyDoQOJbdK",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJl-sBDI-pQjQRuAvhyCfLSGU",
+        "plus_code": {
+            "compound_code": "2GCH+XG Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GCH+XG"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJl-sBDI-pQjQRuAvhyCfLSGU",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 768,
+        "vicinity": "No. 8號, Lane 105, Shida Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.02894059999999,
+                "lng": 121.5296174
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0302904802915,
+                    "lng": 121.5309823302915
+                },
+                "southwest": {
+                    "lat": 25.0275925197085,
+                    "lng": 121.5282843697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Hong Kong Xin Hua Restaurant",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115750522556999846515\">TSAICHEN YANG</a>"
+                ],
+                "photo_reference": "AZose0lzghuo5JorpCOKGA2RAq5_SRpLIU6BJ19hpxb1IMdyfImuTe3i9fKPGh7GNzE7lzMAA_FzxD4pYURp4Kfkf_m7iXtVrSjUW1Kpy6z0NsD3ovAq0lmm8FVd4ZCbbOoTXBtHg4YJPjUxYB6S_cCYEfNT4vBohmsmNjbz5mo8L1woPUwU",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJI-fDY4OpQjQRCTU_iaWpbeA",
+        "plus_code": {
+            "compound_code": "2GHH+HR Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GHH+HR"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJI-fDY4OpQjQRCTU_iaWpbeA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3290,
+        "vicinity": "No. 48, Yongkang Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.026498,
+                "lng": 121.5325306
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.02777023029151,
+                    "lng": 121.5338715302915
+                },
+                "southwest": {
+                    "lat": 25.0250722697085,
+                    "lng": 121.5311735697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Spring vegetarian restaurant (Daan Branch)",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116979028738642702049\">蛋頭哥</a>"
+                ],
+                "photo_reference": "AZose0lQI6GhVHvQEQaIUQHC0U34QSDjwujzuh3VOHZ-Swrohi5gIYIMkUle_xzC3cJ-wtgKbVhqlWEGlWbSaiHykN3mZTHwHxgkBU2Kd3NQ4JSxiJPUtasRhnDj4JJgdk2luf9xB5XUjFEYNpwwBdIoDo5rtzdtXScwSu1YhN27knq_bHU5",
+                "width": 4096
+            }
+        ],
+        "place_id": "ChIJxb5PjoapQjQRQxCdflMrDQQ",
+        "plus_code": {
+            "compound_code": "2GGM+H2 Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GGM+H2"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJxb5PjoapQjQRQxCdflMrDQQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2133,
+        "vicinity": "3F, No. 177號, Section 1, Heping East Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.032044,
+                "lng": 121.5292868
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0333759802915,
+                    "lng": 121.5306327302915
+                },
+                "southwest": {
+                    "lat": 25.0306780197085,
+                    "lng": 121.5279347697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Rice Café 杓文字",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3064,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117347621100845170199\">Song-yang Tong</a>"
+                ],
+                "photo_reference": "AZose0lZtKT9oFkzf7chLJU_GNToGqdribenT5pqTzXZA3HdaIzbdVuPee5urcFh33JnnAwUmyAukKqvjYw948o1k4MvbTfzVnO7rdDwtYVdqU-tO8oEhjk3w6eUGqjqEr1GE73-PzTyIfuXvK2s_rnGsrWsoEuCwgsV9WKvqLtPS-qljm26",
+                "width": 4592
+            }
+        ],
+        "place_id": "ChIJibxETYKpQjQRnJOXvfnziVU",
+        "plus_code": {
+            "compound_code": "2GJH+RP Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GJH+RP"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJibxETYKpQjQRnJOXvfnziVU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 684,
+        "vicinity": "No. 7號, Lane 10, Yongkang Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.019468,
+                "lng": 121.529766
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0207790802915,
+                    "lng": 121.5310696802915
+                },
+                "southwest": {
+                    "lat": 25.01808111970849,
+                    "lng": 121.5283717197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "MOS BURGER Roosevelt Road Shop",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109409512595253494732\">邱淑月</a>"
+                ],
+                "photo_reference": "AZose0lr5nTb3lo6u7vb-IH8uYMjt1ZjJMWJ9_wDBPfVJ10IWjnAh2AhVz5juyu6bJ2UMdosKR_QNRtoHJn7NwmK9wuzVth78nuo9FAwAQ-Zw_k6-9slDk9vbTt1wAJbjMb9NgQWkkaImxIjdEG_BtcCzh7rdII8LgCLmtQoJ1cedznq-yg-",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJR4y1_YapQjQRBvTjPhu3iJs",
+        "plus_code": {
+            "compound_code": "2G9H+QW Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32G9H+QW"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJR4y1_YapQjQRBvTjPhu3iJs",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2064,
+        "vicinity": "No. 233, Section 3, Roosevelt Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0321083,
+                "lng": 121.5290084
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0334639302915,
+                    "lng": 121.5303186802915
+                },
+                "southwest": {
+                    "lat": 25.03076596970849,
+                    "lng": 121.5276207197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "ROSE HOUSE Yongkang Shop",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112067847840387156526\">古典玫瑰園－永康店</a>"
+                ],
+                "photo_reference": "AZose0nEGZ20iqDW8t_UlL3cx5nHift-QApZZxovQqc5mzT94CN_4d8gIjHA-m91gj8uQeUjA7UfYMx1N0Mlu1EVnl5ttat1TfEj3Oztr48f7OSOlcIknRQ7UNs98iqsPG4UQND-5QyS6tVcsg-zw8331bQ880L2VtHCDzNY7zAfshsrLf7V",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJCVYxn4-pQjQR35RnA9CfukI",
+        "plus_code": {
+            "compound_code": "2GJH+RJ Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GJH+RJ"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJCVYxn4-pQjQR35RnA9CfukI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 947,
+        "vicinity": "No. 3之1號, Lishui Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0282712,
+                "lng": 121.5222065
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0296126302915,
+                    "lng": 121.5235590802915
+                },
+                "southwest": {
+                    "lat": 25.0269146697085,
+                    "lng": 121.5208611197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "魚日式料理",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111204314645120534398\">Tommy</a>"
+                ],
+                "photo_reference": "AZose0npSG9beSp_rFXCLEzNM2jqgOOmdIeANeQIPqiF2IuWrUhNymaRXIoZlAhBeVleCHdv4QLG2lBrf6yMcvTeDbaUIvenNtFVckIabT9rXeh0P9lrPctBRzrH88Nq7I2DoNTHypJRvdXCP5VLoBF8LZCQmzTnc9h_jSUXta089wFHGxMl",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJt1azrJupQjQRDPGRLGX8ZoU",
+        "plus_code": {
+            "compound_code": "2GHC+8V Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GHC+8V"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJt1azrJupQjQRDPGRLGX8ZoU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1079,
+        "vicinity": "No. 10, Lane 15, Section 2, Luosifu Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0282614,
+                "lng": 121.5302455
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0296387302915,
+                    "lng": 121.5315944802915
+                },
+                "southwest": {
+                    "lat": 25.0269407697085,
+                    "lng": 121.5288965197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "A.B HOUSE",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1702,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103748703721359594655\">Joseph Yang</a>"
+                ],
+                "photo_reference": "AZose0n3ZC2w-N2A-67KvbOmaOSIvXyjHQUqQg9O8fiQpA6XZ8W5VQIG1rzykviwo6eWo1tk1rFCE5iwYT9T2LrjTJlmNfYcoY1qFc8dExtasuaASUqvCJH_xhBex7k9n1V3PSd-yr7kosWWDa20kF6W04a-4FrPBF8MyhP4PNZny-XBbQtV",
+                "width": 2449
+            }
+        ],
+        "place_id": "ChIJrRR9bYSpQjQRPhG2Al-8bhE",
+        "plus_code": {
+            "compound_code": "2GHJ+83 Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GHJ+83"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJrRR9bYSpQjQRPhG2Al-8bhE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 617,
+        "vicinity": "No. 188, Chaozhou Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0324667,
+                "lng": 121.5291407
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0338156802915,
+                    "lng": 121.5304896802915
+                },
+                "southwest": {
+                    "lat": 25.0311177197085,
+                    "lng": 121.5277917197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "豐盛食堂",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102858033790446409074\">Brook Li</a>"
+                ],
+                "photo_reference": "AZose0n7pd9XfRumJCdEz6tAp1HUI9wkkiwQzdW1UZVg1LBsbzrLHWS9dlvSaDjCjGNFcWQj3AWwRh20EFTX5E5pd7VlIyC2uMLpWactCVjXDj7NWOgzHNYRxrXjM4m_HO1dt1Ceziyas5mKjgzt2eeD0G2fXtgwXEXHr0zGLrA5NqBJ-hHO",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJ97_CUYKpQjQRoiw8x6BqopA",
+        "plus_code": {
+            "compound_code": "2GJH+XM Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GJH+XM"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ97_CUYKpQjQRoiw8x6BqopA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1856,
+        "vicinity": "No. 1之3號, Lishui Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0335035,
+                "lng": 121.530118
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0349093802915,
+                    "lng": 121.5314755802915
+                },
+                "southwest": {
+                    "lat": 25.0322114197085,
+                    "lng": 121.5287776197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Din Tai Fung Xinyi Branch",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115212346095495076177\">wataru T</a>"
+                ],
+                "photo_reference": "AZose0mRkF8wxcsBvlpckXZlV7pjy-51fb8HfYKpVIKCnq8sN1x9TOawOtP6l5FEgSIofKIjv_DuYnx_E3lrLGa0TYayDRgQhevPL8VpxAUJHsW1Wn1IkrhdErVb9FGnuOmcIdwFYOfcLCy7NNNCVAFMFFF037CbdJkY0j3EocTlcb7A3rGF",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJbTKSE4KpQjQRXDZZI57v-pM",
+        "plus_code": {
+            "compound_code": "2GMJ+C2 Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GMJ+C2"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJbTKSE4KpQjQRXDZZI57v-pM",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 11958,
+        "vicinity": "No. 194號, Section 2, Xinyi Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.022469,
+                "lng": 121.528811
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0238270802915,
+                    "lng": 121.5301607802915
+                },
+                "southwest": {
+                    "lat": 25.0211291197085,
+                    "lng": 121.5274628197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "佬披薩LAPIZZAitalian",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101678315725963708482\">Wong Ron</a>"
+                ],
+                "photo_reference": "AZose0moRvIcFLhsffuqRLTOX2Bq3xRYbM5ievyRLwq4MRsPUsI7CrHwdHuo57cwCR7YxVixM-ANjMJManXGDINsUmlUeFe-T12f1I8tiw8ur-ZHpwQ2xvpbX4CEGtAOzwyBOKUQuqc5-ktZw4CEciSAhce2ac-IWG4jwpl4N-EVXhBrUV9D",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJl-sBDI-pQjQRuAvhyCfLSGU",
+        "plus_code": {
+            "compound_code": "2GCH+XG Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GCH+XG"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJl-sBDI-pQjQRuAvhyCfLSGU",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 768,
+        "vicinity": "No. 8號, Lane 105, Shida Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.02894059999999,
+                "lng": 121.5296174
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0302904802915,
+                    "lng": 121.5309823302915
+                },
+                "southwest": {
+                    "lat": 25.0275925197085,
+                    "lng": 121.5282843697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Hong Kong Xin Hua Restaurant",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115750522556999846515\">TSAICHEN YANG</a>"
+                ],
+                "photo_reference": "AZose0mbgaRXjqM8JA1Zb_gl1gnoEY8BUQ1Lv4kkh7Fnhg7mqxezetIrwspZOqYXbLaIEa0zi2u1vv-5wvL0fyS_oa9DM6OT4npsfzq3K6mjWuCvQ_CKHih7WIzlJC5Xe9-bKbRl2Y04pYVOfdpnQHqnsxbFmhaC0z3tc9mPCZVmKAi4xhyq",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJI-fDY4OpQjQRCTU_iaWpbeA",
+        "plus_code": {
+            "compound_code": "2GHH+HR Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GHH+HR"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJI-fDY4OpQjQRCTU_iaWpbeA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3290,
+        "vicinity": "No. 48, Yongkang Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.026498,
+                "lng": 121.5325306
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.02777023029151,
+                    "lng": 121.5338715302915
+                },
+                "southwest": {
+                    "lat": 25.0250722697085,
+                    "lng": 121.5311735697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Spring vegetarian restaurant (Daan Branch)",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116979028738642702049\">蛋頭哥</a>"
+                ],
+                "photo_reference": "AZose0k7qZ9vMTdBNIBZh2X6_nNWsP1PnvVWDUX_iV-rkS3BAu2GeCx5t1dlNz_NEPM0sCuWp2hTugcrhSoplG3N8-OQV257OIDUUbIvFzTQXKPP2rIDlwiLihD6BAocIBx-_wy0Y83OWrsRD6n5gMQWTvIIPl56Y5jDxfbqTMizuQNYZ1zY",
+                "width": 4096
+            }
+        ],
+        "place_id": "ChIJxb5PjoapQjQRQxCdflMrDQQ",
+        "plus_code": {
+            "compound_code": "2GGM+H2 Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GGM+H2"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJxb5PjoapQjQRQxCdflMrDQQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2133,
+        "vicinity": "3F, No. 177號, Section 1, Heping East Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.032044,
+                "lng": 121.5292868
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0333759802915,
+                    "lng": 121.5306327302915
+                },
+                "southwest": {
+                    "lat": 25.0306780197085,
+                    "lng": 121.5279347697085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Rice Café 杓文字",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3064,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117347621100845170199\">Song-yang Tong</a>"
+                ],
+                "photo_reference": "AZose0l9povH6qftTtwdf_7iHVROo6R3s1vgWl7ohHarGt6QGm6xFN3UK86bFfRxNTRFzLGgVWvKdkQyeq8ZD-Uu3v4gNQRUapdLXMdzt4OBP-RYSP2FfJcIH6rkfELla16y0kp5RXz25H-v7K6HUVN4BGq_OYZOLEN1y_bmmiJiRNOmRRlk",
+                "width": 4592
+            }
+        ],
+        "place_id": "ChIJibxETYKpQjQRnJOXvfnziVU",
+        "plus_code": {
+            "compound_code": "2GJH+RP Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GJH+RP"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJibxETYKpQjQRnJOXvfnziVU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 684,
+        "vicinity": "No. 7號, Lane 10, Yongkang Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.019468,
+                "lng": 121.529766
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0207790802915,
+                    "lng": 121.5310696802915
+                },
+                "southwest": {
+                    "lat": 25.01808111970849,
+                    "lng": 121.5283717197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "MOS BURGER Roosevelt Road Shop",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109409512595253494732\">邱淑月</a>"
+                ],
+                "photo_reference": "AZose0lUr7szzvfOiCJjq-95x06jvpCipX8A7cGF59wckuuWbJO3QnyTAG8xkvzOpW2U1V1jKwOsmClUeXK4FfhRYfhjwtbLvSaBle4VXVCZhmzqiLxn5id_jii-SdZY2WC86HUNUg7PJUcXhzVs9wDK5wGP24YI0OyQzUveVJ8W23dZ43qD",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJR4y1_YapQjQRBvTjPhu3iJs",
+        "plus_code": {
+            "compound_code": "2G9H+QW Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32G9H+QW"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJR4y1_YapQjQRBvTjPhu3iJs",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2064,
+        "vicinity": "No. 233, Section 3, Roosevelt Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0321083,
+                "lng": 121.5290084
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0334639302915,
+                    "lng": 121.5303186802915
+                },
+                "southwest": {
+                    "lat": 25.03076596970849,
+                    "lng": 121.5276207197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "ROSE HOUSE Yongkang Shop",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112067847840387156526\">古典玫瑰園－永康店</a>"
+                ],
+                "photo_reference": "AZose0l4-8fXL1lDHAhV7CmO2Zu3nmX2Z8weKUFBuZwWI5-TxFH4gJkJcXD2gZgZFlg1NuOaNK3nJkkDMnCv65vNdxtZRB2AJzJK29C1QGaF897GsypjAMQzDEBMn-QggO6M4T2cbeptX2JqbsPD278GNAFJL32fML92KmiCrCnC2y4ZVodq",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJCVYxn4-pQjQR35RnA9CfukI",
+        "plus_code": {
+            "compound_code": "2GJH+RJ Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GJH+RJ"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJCVYxn4-pQjQR35RnA9CfukI",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 947,
+        "vicinity": "No. 3之1號, Lishui Street, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0282712,
+                "lng": 121.5222065
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0296126302915,
+                    "lng": 121.5235590802915
+                },
+                "southwest": {
+                    "lat": 25.0269146697085,
+                    "lng": 121.5208611197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "魚日式料理",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111204314645120534398\">Tommy</a>"
+                ],
+                "photo_reference": "AZose0nBX15ex_tjfC2ar2TxgH_xA49bLEAiNwxSxbO3p5hPRl0Lt4_dUAgK7XWQozvajFJWNg6IAIAe80rOeLp6vxtQNWGDlC4VktdWLUAkyfQZQYawmi8JJJfPdgfVLevNF9T-nhaTNgtbb-lq0xvjkEyO4NMvV8rQ0diB7SlRGsxloKLn",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJt1azrJupQjQRDPGRLGX8ZoU",
+        "plus_code": {
+            "compound_code": "2GHC+8V Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GHC+8V"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJt1azrJupQjQRDPGRLGX8ZoU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1079,
+        "vicinity": "No. 10, Lane 15, Section 2, Luosifu Road, Da’an District"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 25.0282614,
+                "lng": 121.5302455
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 25.0296387302915,
+                    "lng": 121.5315944802915
+                },
+                "southwest": {
+                    "lat": 25.0269407697085,
+                    "lng": 121.5288965197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "A.B HOUSE",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1702,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103748703721359594655\">Joseph Yang</a>"
+                ],
+                "photo_reference": "AZose0nsQnLsuXK7zRMcaT2-0WzjnmJmpU1kE731bu721sy4Vi1L8RWeftqE5t7J-Zkpqt2uo2_k3MeWvk2UerLdCRGXSbqO09JcOBmFBCvKOHE0BuupCOAemypphnHNoyywlfhCpAAFUtEHyIoNGmWb9Ab7QLexA_0kA76n5XdKLrN4f50w",
+                "width": 2449
+            }
+        ],
+        "place_id": "ChIJrRR9bYSpQjQRPhG2Al-8bhE",
+        "plus_code": {
+            "compound_code": "2GHJ+83 Da’an District, Taipei City, Taiwan",
+            "global_code": "7QQ32GHJ+83"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJrRR9bYSpQjQRPhG2Al-8bhE",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 617,
+        "vicinity": "No. 188, Chaozhou Street, Da’an District"
+    }
+]
