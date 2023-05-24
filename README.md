@@ -68,8 +68,10 @@
 <br />
 
 ## 課程練習
-### [Practice Pandas | 0302](https://github.com/Hazel0301/PL/blob/main/prac_pandas/task_1.ipynb)
-### [Practice Json | 0323](https://github.com/Hazel0301/PL/blob/main/prac_json/hw_3.ipynb)
+### Practice Pandas
+[Practice Pandas | 0302](https://github.com/Hazel0301/PL/blob/main/prac_pandas/task_1.ipynb)
+### Practice Json
+[Practice Json | 0323](https://github.com/Hazel0301/PL/blob/main/prac_json/hw_3.ipynb)
 
 <br />
 
