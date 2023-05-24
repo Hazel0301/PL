@@ -31,7 +31,7 @@
 [Code for Catching Data](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Data%20Sort.ipynb) | 
 [Code for User Interface](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Function.ipynb)<br />
 [JSON File](https://github.com/Hazel0301/PL/blob/main/Project/places.json) | 
-[JSON File for Specific User](https://github.com/Hazel0301/PL/blob/main/Project/places.json)<br />
+[JSON File for Specific User](https://github.com/Hazel0301/PL/blob/main/Project/places_function.json)<br />
 [CSV File](https://github.com/Hazel0301/PL/blob/main/Project/places.csv) | 
 [CSV Sorted File](https://github.com/Hazel0301/PL/blob/main/Project/sorted_places.csv)
 
