@@ -19,7 +19,11 @@
 <br />
 
 ## 專題連結
+組員：潘玟琦、
 ### [Slide](https://docs.google.com/presentation/d/1E-EkvxI4I3n1DBF54zYlD17Pt7pm5RlzCwRbEcphRbo/edit#slide=id.p)
+### [Code](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Data%20Sort.ipynb)
+### [JSON File](https://github.com/Hazel0301/PL/blob/main/Project/places.json)
+### [CSV File](https://github.com/Hazel0301/PL/blob/main/Project/places.csv)
 
 <br />
 
@@ -57,7 +61,7 @@
 
 <br />
 
-## 課程筆記
+## 課程練習
 ### [Practice Pandas | 0302](https://github.com/Hazel0301/PL/blob/main/prac_pandas/task_1.ipynb)
 ### [Practice Json | 0323](https://github.com/Hazel0301/PL/blob/main/prac_json/hw_3.ipynb)
 
