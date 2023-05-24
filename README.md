@@ -7,23 +7,29 @@
 ***
 
 ## 作業連結
-### [Homework 1 | 0309 - 0316 | Part 1](https://github.com/Hazel0301/PL/blob/main/hw_1%262/hw_1%262.ipynb)
-### [Homework 2 | 0323 - 0330 | Part 2](https://github.com/Hazel0301/PL/blob/main/hw_1%262/hw_1%262.ipynb)
-### [Homework 3 | 0406 - 0413](https://github.com/Hazel0301/PL/blob/main/hw_3/hw_3.ipynb)
-### [Homework 4 | 0420 - 0427 | Code](https://github.com/Hazel0301/PL/blob/main/hw_4/hw_4.ipynb)
-### [Homework 4 | 0420 - 0427 | Medium](https://medium.com/@40871211h/36ba054d4ad1)
-### [Homework 5 | 0504 - 0511 | Code 1](https://nbviewer.org/github/Hazel0301/PL/blob/main/hw_5/hw_5.ipynb)
-### [Homework 5 | 0504 - 0511 | Code 2](https://nbviewer.org/github/Hazel0301/PL/blob/main/hw_5/hw_5_2.ipynb)
-### [Homework 5 | 0504 - 0511 | Medium](https://medium.com/@40871211h/文本共現-熱點圖-ptt看板lol留言分析-3e1a9e09b4d)
+### Homework 1 | 0309 - 0316
+[Code Part 1](https://github.com/Hazel0301/PL/blob/main/hw_1%262/hw_1%262.ipynb)
+### Homework 2 | 0323 - 0330
+[Code Part 2](https://github.com/Hazel0301/PL/blob/main/hw_1%262/hw_1%262.ipynb)
+### Homework 3 | 0406 - 0413
+[Code](https://github.com/Hazel0301/PL/blob/main/hw_3/hw_3.ipynb)
+### Homework 4 | 0420 - 0427
+[Code](https://github.com/Hazel0301/PL/blob/main/hw_4/hw_4.ipynb) | 
+[Medium](https://medium.com/@40871211h/36ba054d4ad1)
+### Homework 5 | 0504 - 0511
+[Code 1](https://nbviewer.org/github/Hazel0301/PL/blob/main/hw_5/hw_5.ipynb) | 
+[Code 2](https://nbviewer.org/github/Hazel0301/PL/blob/main/hw_5/hw_5_2.ipynb) | 
+[Medium](https://medium.com/@40871211h/文本共現-熱點圖-ptt看板lol留言分析-3e1a9e09b4d)
 
 <br />
 
 ## 專題連結
-組員：40871211H潘玟琦 | 40871213H楊函甄 | 40883007I狄呈恩
-### [Slide](https://docs.google.com/presentation/d/1E-EkvxI4I3n1DBF54zYlD17Pt7pm5RlzCwRbEcphRbo/edit#slide=id.p)
-### [Code](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Data%20Sort.ipynb)
-### [JSON File](https://github.com/Hazel0301/PL/blob/main/Project/places.json)
-### [CSV File](https://github.com/Hazel0301/PL/blob/main/Project/places.csv)
+### 主題：師大吃什麼？<br />
+### 組員：潘玟琦 | 楊函甄 | 狄呈恩<br />
+[Slide](https://docs.google.com/presentation/d/1E-EkvxI4I3n1DBF54zYlD17Pt7pm5RlzCwRbEcphRbo/edit#slide=id.p) | 
+[Code](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Data%20Sort.ipynb) | 
+[JSON File](https://github.com/Hazel0301/PL/blob/main/Project/places.json) | 
+[CSV File](https://github.com/Hazel0301/PL/blob/main/Project/places.csv)
 
 <br />
 
