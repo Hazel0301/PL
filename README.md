@@ -19,7 +19,7 @@
 <br />
 
 ## 專題連結
-組員：潘玟琦、
+組員：40871211H潘玟琦 | 40871213H楊函甄 | 40883007I狄呈恩
 ### [Slide](https://docs.google.com/presentation/d/1E-EkvxI4I3n1DBF54zYlD17Pt7pm5RlzCwRbEcphRbo/edit#slide=id.p)
 ### [Code](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Data%20Sort.ipynb)
 ### [JSON File](https://github.com/Hazel0301/PL/blob/main/Project/places.json)
