@@ -27,8 +27,9 @@
 ### 主題：師大吃什麼？<br />
 ### 組員：潘玟琦 | 楊函甄 | 狄呈恩<br />
 ### 資料：<br />
-[Slide](https://docs.google.com/presentation/d/1E-EkvxI4I3n1DBF54zYlD17Pt7pm5RlzCwRbEcphRbo/edit#slide=id.p) | 
-[Code](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Data%20Sort.ipynb) | 
+[Slide](https://docs.google.com/presentation/d/1E-EkvxI4I3n1DBF54zYlD17Pt7pm5RlzCwRbEcphRbo/edit#slide=id.p)<br />
+[Code for Catching Data](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Data%20Sort.ipynb) | 
+[Code for User Interface](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Function.ipynb)<br />
 [JSON File](https://github.com/Hazel0301/PL/blob/main/Project/places.json) | 
 [CSV File](https://github.com/Hazel0301/PL/blob/main/Project/places.csv) | 
 [CSV Sorted File](https://github.com/Hazel0301/PL/blob/main/Project/sorted_places.csv)
