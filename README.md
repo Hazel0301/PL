@@ -26,15 +26,18 @@
 ## 專題連結
 ### 主題：師大吃什麼？<br />
 ### 組員：潘玟琦 | 楊函甄 | 狄呈恩<br />
-### 資料：<br />
+### Material：<br />
 [Google Slide](https://docs.google.com/presentation/d/1E-EkvxI4I3n1DBF54zYlD17Pt7pm5RlzCwRbEcphRbo/edit#slide=id.p)<br />
+[Code for User Interface](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Function.ipynb) | 
+[JSON File for Specific User](https://github.com/Hazel0301/PL/blob/main/Project/places_function.json)<br />
+[Figma](https://www.figma.com/file/6aNtu9AV9NdpZCpHs2Lqqy/Doctor-Channeling-Concept-App-(Community)?type=design&node-id=0%3A1&t=y4TyuFjuUjrAiIYT-1)
+[YouTube Publication](https://youtu.be/RI97hJ2Fvb8)<br />
+
+### Testing：<br />
 [Code for Catching Data](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Data%20Sort.ipynb) | 
 [JSON File](https://github.com/Hazel0301/PL/blob/main/Project/places.json) | 
 [CSV File](https://github.com/Hazel0301/PL/blob/main/Project/places.csv) | 
 [CSV Sorted File](https://github.com/Hazel0301/PL/blob/main/Project/sorted_places.csv)<br />
-[Code for User Interface](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Function.ipynb) | 
-[JSON File for Specific User](https://github.com/Hazel0301/PL/blob/main/Project/places_function.json)<br />
-[YouTube Publication](https://youtu.be/RI97hJ2Fvb8)
 
 <br />
 
