@@ -34,7 +34,7 @@
 [CSV Sorted File](https://github.com/Hazel0301/PL/blob/main/Project/sorted_places.csv)<br />
 [Code for User Interface](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Function.ipynb) | 
 [JSON File for Specific User](https://github.com/Hazel0301/PL/blob/main/Project/places_function.json)<br />
-[YouTube](https://youtu.be/RI97hJ2Fvb8)
+[YouTube P](https://youtu.be/RI97hJ2Fvb8)
 
 <br />
 
