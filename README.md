@@ -34,7 +34,7 @@
 [CSV Sorted File](https://github.com/Hazel0301/PL/blob/main/Project/sorted_places.csv)<br />
 [Code for User Interface](https://github.com/Hazel0301/PL/blob/main/Project/Project%20Function.ipynb) | 
 [JSON File for Specific User](https://github.com/Hazel0301/PL/blob/main/Project/places_function.json)<br />
-[YouTube P](https://youtu.be/RI97hJ2Fvb8)
+[YouTube Publication](https://youtu.be/RI97hJ2Fvb8)
 
 <br />
 
@@ -83,4 +83,5 @@
 ## 其他
 ### [Student List repo](https://docs.google.com/spreadsheets/d/e/2PACX-1vRBeY4-E_d9eBNKEcFV0eiGAFsMOk-ZYCmTLGmQ5_yWYkJcxXXBQI8rOkaqPyIktU4SgS7Rg0IQdZJ4/pubhtml#)
 ### [Professor's repo](https://github.com/pecu/PL)
+### [Final Project Playlist](https://youtube.com/playlist?list=PLH3VeiMX0ckhd-D9TT_407wRKTcZas-X2)
 ### [Student List 2022 repo](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUVpx6AeccKwedvZjINM5-mSLpmS0M69wrCIbDimIdwpN30xQpqcn0k5kh0oUQET05sEsMpFt6fsCA/pubhtml)
